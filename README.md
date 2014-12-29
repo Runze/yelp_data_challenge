@@ -10,4 +10,4 @@ The IPython notebooks are hosted by nbviewer [here](http://nbviewer.ipython.org/
 
 3. [Training models using the sentiment scores](http://nbviewer.ipython.org/github/Runze/yelp_data_challenge/blob/master/3.%20train_models.ipynb)
 
-4. [Applying the model to the test set](nbviewer.ipython.org/github/Runze/yelp_data_challenge/blob/master/4.%20test_models.ipynb)
+4. [Applying the model to the test set](http://nbviewer.ipython.org/github/Runze/yelp_data_challenge/blob/master/4.%20test_models.ipynb)
